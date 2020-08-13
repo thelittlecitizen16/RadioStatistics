@@ -1,0 +1,4 @@
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\RadioStatistics\RadioStatistics\obj\Debug\netcoreapp3.1\RadioStatistics.csprojAssemblyReference.cache
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\RadioStatistics\RadioStatistics\obj\Debug\netcoreapp3.1\RadioStatistics.AssemblyInfoInputs.cache
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\RadioStatistics\RadioStatistics\obj\Debug\netcoreapp3.1\RadioStatistics.AssemblyInfo.cs
+C:\Users\thelittlecitizen16\Desktop\שבוע ראשון\יום 1108\RadioStatistics\RadioStatistics\obj\Debug\netcoreapp3.1\RadioStatistics.csproj.CoreCompileInputs.cache
